@@ -1,0 +1,1 @@
+Working on mini projects in Verilog, focusing on digital design concepts and RTL implementation. These projects showcase my understanding of logic design, hardware description languages, and simulation, emphasizing practical application and problem-solving in digital systems.
