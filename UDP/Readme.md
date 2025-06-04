@@ -1,1 +1,1 @@
-
+🔬 User Defined Primitives (UDPs) are a unique feature in Verilog HDL, enabling designers to define custom combinational and sequential logic directly via truth tables. UDPs promote IP reusability, facilitate formal verification, and optimize gate-level synthesis by modeling logic at the primitive level—beyond standard gates. In advanced digital design flows, UDPs are instrumental for rapid prototyping, silicon validation, and the creation of specialized logic cells for ASICs and FPGAs.
